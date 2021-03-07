@@ -15,4 +15,4 @@ Hobby/zainteresowania:
 * 💸 Inwestowanie
 * 🍔 Gotowanie
 
-![Profile picture](/assets/profile.jpg =250x250)
+![Profile picture](/assets/profile.jpg)
