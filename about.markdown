@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ![Profile picture](/assets/profile.jpg)
 
-🧑 Olaf Goj
+
 
 💻 Backend developer (Java/Kotlin)
 
