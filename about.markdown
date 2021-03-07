@@ -4,10 +4,15 @@ title: O mnie
 permalink: /about/
 ---
 
-🧑 Olaf
+🧑 Olaf Goj
+
 💻 Backend developer (Java/Kotlin)
+
 🛸 Katowice
 
-Zainteresowania:
-Książki non-fiction, inwestowanie
+Hobby/zainteresowania:
+* 📚 Literatura faktu
+* 💸 Inwestowanie
+* 🍔 Gotowanie
 
+![Profile picture](/assets/profile.jpg)
